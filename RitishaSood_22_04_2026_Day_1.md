@@ -23,6 +23,12 @@ public:
                 nums[i] = nums[j];
             }
         }
+
+
+
+### OR if different name:
+```md
+![Screenshot](day1.md.png)
         return i + 1;
     }
 };
