@@ -25,12 +25,13 @@ public:
         }
         return i + 1;
     }
-};
 
 
 
 
 
-## OR if different name:
-```md
-![Screenshot](day1.md.png)
+
+
+
+
+![Screenshot](day1.png)
